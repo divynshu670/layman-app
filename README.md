@@ -112,7 +112,7 @@ navigation/
 - `assets/Home.jpeg`
 - `assets/saved.jpeg`
 - `assets/Profile.jpeg`
-- `assets/Article screen (2).jpeg`
+- `assets/Article screen .jpeg`
 - `assets/webpage.jpeg`
 - `assets/sahare.jpeg`
 - `assets/chat sheet -4.jpeg`
